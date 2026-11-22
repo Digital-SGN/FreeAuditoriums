@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="160" src="https://github.com/Digital-SGN/Handbook/blob/main/assets/logo_free_auditoriums.png" alt="Логотип" />
+  <img width="160" src="https://github.com/Digital-SGN/Handbook/blob/main/assets/logo_free_auditoriums_v2.png" alt="Логотип" />
 </p>
 
 <h1 align="center"> Поиск свободных аудиторий </h1>
