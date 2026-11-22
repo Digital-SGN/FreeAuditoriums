@@ -9,9 +9,9 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-CSS3-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-ES6-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/JSON-data-000000?style=flat-square&logo=json&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub%20Pages-ready-0CBFA1?style=flat-square&logo=githubpages&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub%20Pages-0CBFA1?style=flat-square&logo=githubpages&logoColor=white" />
 </p>
 
 ## О проекте
